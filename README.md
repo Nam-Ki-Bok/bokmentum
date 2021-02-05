@@ -2,7 +2,7 @@
 
 https://nam-ki-bok.github.io/bokmentum/
 
-<img src="https://user-images.githubusercontent.com/54533309/107017792-f6740300-67e2-11eb-9bfa-231921c669b4.gif" alt="ezgif com-gif-maker" width="1000" />
+<img src="https://user-images.githubusercontent.com/54533309/107023907-a26d1c80-67ea-11eb-8be8-cc29a32feb28.gif" alt="ezgif com-gif-maker" width="850" />
 
 크롬 확장프로그램 **MOMENTUM** 클론 코딩입니다.
 
@@ -28,6 +28,8 @@ https://github.com/Nam-Ki-Bok/FIFA-Online-TMI 진행 중 JS 에 대한 이해가
 
 ## ❗️이슈
 
-📌 [2021.02.05] REAME 작성 ✔️
+📌 [2021.02.05] REAME 작성해야 함 ✔️
 
-📌 [2021.02.05] CSS 분리
+📌 [2021.02.05] CSS 분리해야 함 ✔️
+
+📌 [2021.02.05] 닉네임 변경 기능 추가해야 함
