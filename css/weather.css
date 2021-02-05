@@ -1,0 +1,9 @@
+.weather {
+    font-family: 'GmarketSansBold', sans-serif;
+    color: white;
+    position: absolute;
+    font-size: 13px;
+    position: absolute;
+    top: 25px;
+    right: 25px;
+}
