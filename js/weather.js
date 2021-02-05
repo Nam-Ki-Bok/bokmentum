@@ -42,10 +42,9 @@ function loadCoords() {
     const loadedCoords = localStorage.getItem(COORDS);
     if (loadedCoords === null) {
         askForCoords();
-    }
-    else {
+    } else {
         const parseCoords = JSON.parse(loadedCoords);
-        getWeather(parseCoords.latitude, parseCoords.longitude); 
+        getWeather(parseCoords.latitude, parseCoords.longitude);
     }
 }
 
